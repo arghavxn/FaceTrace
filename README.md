@@ -1,6 +1,6 @@
-# Simple Face Detection System
+# Face Detection System
 
-A lightweight, easy-to-use face detection application using OpenCV and Haar cascade classifiers.
+An easy-to-use face detection application using OpenCV and Haar cascade classifiers.
 
 ## Features
 
